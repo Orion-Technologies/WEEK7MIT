@@ -5,7 +5,7 @@ Activities of week 7
 In this activity I worked and learned about DOM.
 
 ## Creating a TO-DO List
-In this activity I worked and manipulate the DOM and add elements in it.
+In this activity I worked, manipulated the DOM and added elements into it.
 
 ## Support
 If you have a questions or comments you can write me at: 
